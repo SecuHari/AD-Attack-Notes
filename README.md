@@ -65,7 +65,12 @@ This sheet is a growing resource. Feel free to fork, suggest improvements, or su
 
 ## 📬 Contact
 
-If you found this helpful or want to collaborate on more cybersecurity tools, feel free to reach out via GitHub or LinkedIn.
+Connect with me on:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hareesh-kumar-02045a339/)
+- 📸 [Instagram](https://www.instagram.com/secuhari?igsh=MW5nMGk4Nm8wZ3Q5dA==)
+- 📧 Email: yourname@example.com
+
 
 ---
 
